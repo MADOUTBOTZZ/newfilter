@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "website": "https://github.com/MADOUTBOTZZ/newfilter",
+    "repository": "https://github.com/MADOUTBOTZZ/newfilter",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -49,7 +49,7 @@
             "required": false
         },
         "START_MSG": {
-            "description": "Welcome message for start command",
+            "description": "⚡ Welcome ⚡ message for start command",
             "value": "**Hi, I'm Auto Filter Bot With Greater Abilities**",
             "required": false
         },
